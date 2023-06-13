@@ -3,6 +3,8 @@
 - Option, das man auch Videos zB von YT einbinden kann
 - Datasource sollte so funktionieren, dass es von allen möglichen Links geht
 - Seasonal Themes
+- ChatGPT nach sinnvollen Extensions für mein Projekt fragen
+- ChatGPT nach sinnvollen Packages fragen
 
 # Blog
 
