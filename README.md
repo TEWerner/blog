@@ -1,3 +1,9 @@
+# Todos
+
+- Option, das man auch Videos zB von YT einbinden kann
+- Datasource sollte so funktionieren, dass es von allen möglichen Links geht
+- Seasonal Themes
+
 # Blog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
