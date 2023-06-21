@@ -1,7 +1,8 @@
 # Todos
 
 - Option, das man auch Videos zB von YT einbinden kann
-- Datasource sollte so funktionieren, dass es von allen möglichen Links geht
+- Datasource sollte so funktionieren, dass es von allen möglichen Links geht -> Separation of Concerns
+- Cleane Architektur
 - Seasonal Themes
 - ChatGPT nach sinnvollen Extensions für mein Projekt fragen
 - ChatGPT nach sinnvollen Packages fragen
