@@ -1,0 +1,130 @@
+[
+    {
+        "name": "beppu",
+        "description": "",
+        "date": "",
+        "coordinates": {
+            "lat": 0,
+            "lng": 0
+        },
+        "pictures": [
+            {
+                "path": "assets/pictures/beppu/PXL_20230506_033722909.jpg",
+                "description": ""
+            },
+            {
+                "path": "assets/pictures/beppu/PXL_20230507_060610582.jpg",
+                "description": ""
+            },
+            {
+                "path": "assets/pictures/beppu/PXL_20230507_062412648.jpg",
+                "description": ""
+            },
+            {
+                "path": "assets/pictures/beppu/PXL_20230508_044538673.jpg",
+                "description": ""
+            },
+            {
+                "path": "assets/pictures/beppu/PXL_20230508_060915974.jpg",
+                "description": ""
+            },
+            {
+                "path": "assets/pictures/beppu/PXL_20230508_061231945.MP.jpg",
+                "description": ""
+            },
+            {
+                "path": "assets/pictures/beppu/PXL_20230508_062437302.jpg",
+                "description": ""
+            },
+            {
+                "path": "assets/pictures/beppu/PXL_20230508_072238900.jpg",
+                "description": ""
+            },
+            {
+                "path": "assets/pictures/beppu/PXL_20230508_072341629.jpg",
+                "description": ""
+            },
+            {
+                "path": "assets/pictures/beppu/PXL_20230509_045122477.jpg",
+                "description": ""
+            },
+            {
+                "path": "assets/pictures/beppu/PXL_20230509_045126589.jpg",
+                "description": ""
+            },
+            {
+                "path": "assets/pictures/beppu/PXL_20230509_045302887.jpg",
+                "description": ""
+            },
+            {
+                "path": "assets/pictures/beppu/PXL_20230509_053229292.jpg",
+                "description": ""
+            },
+            {
+                "path": "assets/pictures/beppu/PXL_20230509_060337530.jpg",
+                "description": ""
+            },
+            {
+                "path": "assets/pictures/beppu/PXL_20230509_080526355.jpg",
+                "description": ""
+            },
+            {
+                "path": "assets/pictures/beppu/PXL_20230509_080535824.jpg",
+                "description": ""
+            },
+            {
+                "path": "assets/pictures/beppu/PXL_20230509_080712205.jpg",
+                "description": ""
+            },
+            {
+                "path": "assets/pictures/beppu/PXL_20230509_080853659.jpg",
+                "description": ""
+            },
+            {
+                "path": "assets/pictures/beppu/PXL_20230510_050507057.MP.jpg",
+                "description": ""
+            },
+            {
+                "path": "assets/pictures/beppu/PXL_20230510_053645648.jpg",
+                "description": ""
+            },
+            {
+                "path": "assets/pictures/beppu/PXL_20230510_060808322.jpg",
+                "description": ""
+            },
+            {
+                "path": "assets/pictures/beppu/PXL_20230510_060823950.jpg",
+                "description": ""
+            },
+            {
+                "path": "assets/pictures/beppu/PXL_20230510_075925491.jpg",
+                "description": ""
+            },
+            {
+                "path": "assets/pictures/beppu/PXL_20230510_080021851.jpg",
+                "description": ""
+            },
+            {
+                "path": "assets/pictures/beppu/PXL_20230510_081340997.jpg",
+                "description": ""
+            },
+            {
+                "path": "assets/pictures/beppu/PXL_20230510_082817880.jpg",
+                "description": ""
+            },
+            {
+                "path": "assets/pictures/beppu/PXL_20230511_080002082.jpg",
+                "description": ""
+            },
+            {
+                "path": "assets/pictures/beppu/PXL_20230511_080051562.jpg",
+                "description": ""
+            },
+            {
+                "path": "assets/pictures/beppu/PXL_20230511_081020182.jpg",
+                "description": ""
+            }
+        ],
+        "mainPicturePath": "assets/pictures/beppu/PXL_20230506_033722909.jpg"
+    }
+]
